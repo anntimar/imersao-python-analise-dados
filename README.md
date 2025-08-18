@@ -32,8 +32,6 @@ streamlit run app.py
 
 Em seguida, acesse o dashboard no navegador pelo endereço exibido no terminal (geralmente http://localhost:8501)
 
-##Fonte dos dados
-
 Os dados utilizados no dashboard são públicos e foram disponibilizados na URL abaixo:
 
 https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main/dados-imersao-final.csv
